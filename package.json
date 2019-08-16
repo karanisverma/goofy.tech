@@ -1,0 +1,22 @@
+{
+  "name": "goofy.tech",
+  "version": "1.0.0",
+  "description": "playground for all frontend stuff",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karanisverma/goofy.tech.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "karan verma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karanisverma/goofy.tech/issues"
+  },
+  "homepage": "https://github.com/karanisverma/goofy.tech#readme"
+}
